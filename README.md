@@ -8,10 +8,12 @@ El proyecto fue creado con [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Version Oficial V1.0
 
+![Cover](https://github.com/TheLostHeaven/Hero-Attendance-Angular/assets/90277397/55bd7247-3e6c-4ea6-8b84-d19a98831ec0)
 
 
 ## Estructura de Carpetas
 
+![Dir](https://github.com/TheLostHeaven/Hero-Attendance-Angular/assets/90277397/150cebd2-9929-4e1c-9d87-00e3771c5fca)
 
 
 ## Funcionalidades
